@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kuha3030
 - 👀 I’m interested in C#, Unity, games and mobile applications.
-- 🌱 I’m currently learning C#, HTML, CSS and bunch of other things in school.
-- 💞️ I’m looking to collaborate on games and game related music projects.
+- 🌱 I’m currently learning C#, ASP.NET MVC, SQL and bunch of other things at school.
 - 📫 You can reach me by messaging me @ discord: Kuha#7774
 
 <!---
