@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kuha3030
 - 👀 I’m interested in C#, .NET, React and SQL.
-- 🌱 I’m currently learning C#, REST, ASP.NET MVC, React and Scrum.
+- 🌱 I’m currently learning REST, ASP.NET MVC, React and Scrum.
 - 📫 You can reach me by messaging me @ discord: Kuha#7774
